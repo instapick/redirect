@@ -104,7 +104,9 @@
     width:100%;
     margin: 0 auto;
 }
-
+.ytp-player-content, .ytp-chrome-top, .ytp-expand-pause-overlay .ytp-pause-overlay{
+    display:none !important
+}
 /*------start youtube responsive arabes1.com------*/
 iframe,.entry-content object,.entry-content embed{max-width:100%;    height: 50%;}
 /*------end youtube responsive arabes1.com------*/
